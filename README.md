@@ -1,7 +1,7 @@
 # SE_project
 Schneider Electrics project with DSB
 
-# dowload the datasets from ??? and move it to the data folder
+# download the datasets from ??? and move it to the data folder
 
 # Creation and activation of the environment with venv
 python3 -m venv SE_env
