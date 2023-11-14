@@ -161,3 +161,6 @@ cython_debug/
 
 # Environment folder
 eqtest_env/
+
+# Data folder
+data/
