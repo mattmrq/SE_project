@@ -5,7 +5,7 @@ Schneider Electrics project with DSB
 
 # Creation and activation of the environment with venv
 python3 -m venv SE_env
-source SEtest_env/bin/activate
+source SE_env/bin/activate
 
 # Alternative avec conda
 conda create --name SE_env python=3.8
