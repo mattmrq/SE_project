@@ -3,3 +3,4 @@ statsmodels
 matplotlib
 scikit-learn
 seaborn
+plotly
