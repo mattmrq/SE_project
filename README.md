@@ -1,15 +1,26 @@
-# SE_project
-Schneider Electrics project with DSB
+# PA6 Price Prediction Project
 
-# download the datasets from ??? and move it to the data folder
+This repository contains the analysis and predictive modeling for PA6 prices.
 
-# Creation and activation of the environment with venv
-python3 -m venv SE_env
-source SE_env/bin/activate
+## Project Structure
 
-# Alternative avec conda
-conda create --name SE_env python=3.8
-conda activate SE_env
+The main analysis can be found within the Jupyter notebook titled:
 
-# Installatrion des packages nécessaires
+- `PA6_prediction_main.ipynb`
+
+This notebook includes the comprehensive process of data cleaning, feature engineering, model selection, and evaluation for predicting PA6 prices.
+
+Additionally, for an in-depth comparison of monthly raw material prices to average product prices, refer to the following notebook:
+
+- `RM_price_analysis.ipynb`
+
+This notebook provides a detailed exploration of the relationship between raw materials and finished product pricing over time.
+
+## Getting Started
+
+To get started with this project, clone the repository and install the required dependencies.
+
+```bash
+git clone [your-repository-url]
+cd [repository-name]
 pip install -r requirements.txt
