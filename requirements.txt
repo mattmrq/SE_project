@@ -1,6 +1,9 @@
 pandas
-statsmodels
 matplotlib
-scikit-learn
+numpy
 seaborn
+polars
 plotly
+scikit-learn
+statsmodels
+xgboost
